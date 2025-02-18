@@ -1,0 +1,11 @@
+{
+  "name": "exo-train",
+  "version": "1.0.0",
+  "description": "My solution for exo-train exercise. \"Given a string representation of a train, print an ASCII-art representation of this train.\"",
+  "main": "exoTrain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacopo Gianfaldoni",
+  "license": "ISC"
+}
