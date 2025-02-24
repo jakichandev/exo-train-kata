@@ -54,6 +54,9 @@ rl.question(
   (trainString) => {
     const asciiTrain = new AsciiTrain(trainString);
     asciiTrain.prepareInput();
+    asciiTrain.fill();
+    asciiTrain.fill();
+    asciiTrain.fill();
     asciiTrain.scanInput();
     asciiTrain.displayTrain();
     rl.close();
